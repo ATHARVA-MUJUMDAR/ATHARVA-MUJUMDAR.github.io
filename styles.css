@@ -1,0 +1,130 @@
+html {
+    height:100%;
+}
+.indexnav{
+    padding-left: 10rem;
+}
+
+.indexbody{
+    background:url(https://img.freepik.com/free-photo/young-fitness-man-studio_7502-5008.jpg?size=626&ext=jpg&ga=GA1.2.68862662.1664628291);
+    background-size: cover;
+}
+.navbar-brand{
+    
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+}
+
+.nav-link{
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1rem;
+    
+    
+}
+.nav-link:hover{
+    color:cyan;
+}
+
+.backgroundimage {
+    width: 100%;
+    height: 37.6rem;
+}
+#memtitle {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    
+}
+#copymem{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 9rem;
+    height: 5rem;
+    
+}
+.membershiphtml{
+    background-color: lightblue;
+        
+}
+
+#mem{
+    margin-top: 3rem;
+    color:black;
+    font-size: 2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+}
+.mempara{
+    border: 2px solid blue;
+    border-radius: 1rem;
+}
+.memdiscount {
+    color: red;
+    text-align: center;
+    text-decoration: dashed;
+
+    margin-top: 5rem;
+}
+#copyindex{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    font-size: 1rem;
+    text-align: center;
+    height:5rem;
+    width:100%;
+    margin-top: 18rem;
+    
+    
+}
+#indexbodydiv{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    /* border:3px solid cyan;
+    border-radius: 3rem; */
+    color: yellowgreen;
+    
+    margin-top: 4rem;
+}
+.contactusbody{
+    background-color: lightblue;
+}
+#copycontact{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    font-size: 1rem;
+    text-align: center;
+    height:5rem;
+    margin-top: 19rem;
+}
+#contactuscont{
+    text-align: center;
+    /* border:3px solid black;
+    border-radius: 3rem; */
+    
+    margin-top: 6rem;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3rem;
+   
+    
+}
+.memplan{
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1rem;
+    margin-top: 5rem;
+}
+.membtn{
+    background-color: black;
+    color: white;
+}
